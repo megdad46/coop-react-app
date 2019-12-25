@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coop-react-app/static/css/main.08011531.chunk.css",
+    "main.js": "/coop-react-app/static/js/main.e78af6a2.chunk.js",
+    "main.js.map": "/coop-react-app/static/js/main.e78af6a2.chunk.js.map",
+    "runtime-main.js": "/coop-react-app/static/js/runtime-main.b9245de1.js",
+    "runtime-main.js.map": "/coop-react-app/static/js/runtime-main.b9245de1.js.map",
+    "static/js/2.966d673a.chunk.js": "/coop-react-app/static/js/2.966d673a.chunk.js",
+    "static/js/2.966d673a.chunk.js.map": "/coop-react-app/static/js/2.966d673a.chunk.js.map",
+    "index.html": "/coop-react-app/index.html",
+    "precache-manifest.90a687e2fe77fcf09a8353041747d177.js": "/coop-react-app/precache-manifest.90a687e2fe77fcf09a8353041747d177.js",
+    "service-worker.js": "/coop-react-app/service-worker.js",
+    "static/css/main.08011531.chunk.css.map": "/coop-react-app/static/css/main.08011531.chunk.css.map",
+    "static/js/2.966d673a.chunk.js.LICENSE": "/coop-react-app/static/js/2.966d673a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9245de1.js",
+    "static/js/2.966d673a.chunk.js",
+    "static/css/main.08011531.chunk.css",
+    "static/js/main.e78af6a2.chunk.js"
+  ]
+}
